@@ -1,9 +1,9 @@
 # 👋 Hi there, I’m @PavanKalyanSaladi
 ## 👀 I’m an Engineer interested in Tech & DevOps with a passion in learning new ...
-- 🔭 I’m currently learning <b>GCP, Networking, Security</b> to expand my skills in public cloud.
-- 💞️ I’m looking to collaborate with techies who are better than yesterday. Make everyday count becoming the best you.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently learning <b>GCP & Security</b> to expand my skills in public cloud.
+- 💞️ I’m looking forward to connect with techies who are better than yesterday.
+- 🌱 I’m looking to collaborate with other developers on open-source projects.
+- ⚡ Fun fact: I love to play indoor games likes <b>Carrom, Badminton & Table Tennis!<br>
 
 ### 📫 How to reach me:
   <a href="https://www.linkedin.com/in/pksaladi/" rel="nofollow">
@@ -27,6 +27,12 @@
   <img height="32" align="left" alt="Prometheus" width="32" src="https://github.com/user-attachments/assets/edac8ea5-5f8d-4750-97aa-2ee0e296d862" style="max-width: 100%;">
   <img height="32" align="left" alt="Grafana" width="32" src="https://github.com/user-attachments/assets/06cd45ab-fd08-45c2-8881-e95f3f0cffd5" style="max-width: 100%;">
   <img height="32" align="left" alt="ELK" width="60" src="https://github.com/user-attachments/assets/f3ecde91-8b8a-43d6-bb08-b0e12d253c54" style="max-width: 100%;">
-  
+<br>
 
-  <img height="32" align="left" alt="Visual Studio Code" width="32" src="https://media.githubusercontent.com/media/microsoft/vscode-docs/main/images/logo-stable.png" style="max-width: 100%;">
+---
+
+### Certifications:
+  <img height="42" align="left" alt="Grafana" width="42" src="https://github.com/user-attachments/assets/0b14d127-9fbd-47d5-b28a-c900ee3ee851" style="max-width: 100%;">
+  <img height="42" align="left" alt="Grafana" width="42" src="https://github.com/user-attachments/assets/092810ce-fa7f-45d4-868c-b39c4e682647" style="max-width: 100%;">
+  <img height="42" align="left" alt="Grafana" width="42" src="https://github.com/user-attachments/assets/a49c646c-e1c7-4970-8993-e89bfe245782" style="max-width: 100%;">
+  <img height="42" align="left" alt="Grafana" width="42" src="https://github.com/user-attachments/assets/c5665729-599d-4fe9-9431-62538d9d9097" style="max-width: 100%;">
